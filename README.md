@@ -4,9 +4,4 @@
 
 # Configuration
 
-After you clone the repository you have to add the following lines to the file `gradle.properties`:
-
-
-<a href="https://play.google.com/store/apps/details?id=com.mauriciotogneri.fileexplorer" target="_blank">
-	<img src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" align="left" height="72" >
-</a>
+修改包名和版本名称，替换掉你当前的应用，可以将你当前应用里面的文件复制到SD卡上，这样可不需要进行root操作就可以拿到一些文件
